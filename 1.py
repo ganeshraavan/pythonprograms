@@ -16,3 +16,4 @@ def solve(N,M,A,B):
     return sum * minVal
 
 print(solve(2,2,[6,10],[7,7]))
+print(solve(2,2,[6,10],[7,7]))
